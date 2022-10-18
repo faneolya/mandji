@@ -1,0 +1,73 @@
+@import url('https://fonts.googleapis.com/css2?family=Akaya+Kanadaka&family=Poly&display=swap');
+
+
+
+
+@media only screen and (max-width: 600px) {
+    .linear{
+        width: 100%;
+        background: linear-gradient(#00eeff, #19a3ff);
+        height: 200px;
+    }
+
+    h3{
+        color: #ffffff;
+        margin-top: -250px;
+        font-family: 'Akaya Kanadaka';
+        font-size: 40px;
+        align-items: center;
+        text-align: center;
+    }
+    h1{
+        color: black;
+        margin-top: 280px;
+        font-family: 'Akaya Kanadaka';
+        font-size: 30px;
+    }
+    .chambre{
+       margin-left: 30px;
+    }
+
+    .prix{
+       margin-left: 30px;
+    }
+
+    .prix h1{
+        color: black;
+        margin-top: 50px;
+        font-family: 'Akaya Kanadaka';
+        font-size: 30px;
+    }
+
+    .prix p{
+        margin-left: -100px;
+        margin-top: -1px;
+        font-family: 'Akaya Kanadaka';
+        font-size: 20px;
+    }
+
+    .prix .icons{
+        margin-left: -70px;
+        margin-top: -1px;
+        font-family: 'Akaya Kanadaka';
+        font-size: 20px;
+    }
+
+    .icons{
+        display: flex;
+        justify-content: space-around;
+    }
+
+    img{
+        margin-top: 100px;
+        margin-left: 150px;
+        border: #0038FF 5px solid;
+        height: 25px;
+    }
+    
+    .button{
+        margin-top: 50px;
+        margin-left: 120px;
+    }
+    
+  }
